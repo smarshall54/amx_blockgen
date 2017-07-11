@@ -35,7 +35,7 @@ SIMULATION BLOCKS:
 		MEASUREMENTS:
 		CMRR	PSRR	DC Gain		Linearity	Step Response (tpd, tr, os%)
 		PM	GM	VsatL/H		ICC		Load
-		Offset	Drift	device sat.	
+		Offset	Drift	device sat.	BW
 		
 
 SIMULINK MODEL FILES:
